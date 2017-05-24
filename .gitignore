@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+damien_deathstalker
+/static
+.DS_Store
